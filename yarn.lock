@@ -1184,6 +1184,11 @@
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
 
+"@types/webappsec-credential-management@^0.6.3":
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/@types/webappsec-credential-management/-/webappsec-credential-management-0.6.3.tgz#82fdfa092a2a7f08c23201b78fb2557f4a4bd079"
+  integrity sha512-r5r3DmO0xYJA2T6fMKpSc+EjRs7GxNndhh7qW+oR/nihxhbYF++zINj1OslZBkK17l9DHtpZneSIdVuN0F7gXQ==
+
 "@zag-js/element-size@0.3.1":
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/@zag-js/element-size/-/element-size-0.3.1.tgz#f9f6ae98355e2250d18d0f6e2f1134a0ae4c6a2f"
